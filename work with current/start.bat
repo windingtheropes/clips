@@ -1,0 +1,1 @@
+cd 'C:/Pro' && obs64.exe --startreplaybuffer --multi warning --portable --minimize-to-tray --disable-updates

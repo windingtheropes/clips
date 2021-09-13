@@ -1,0 +1,1 @@
+cd E:\Dev\clips\obs\bin\64bit && obs64.exe --startreplaybuffer --multi warning --portable --minimize-to-tray --disable-updates

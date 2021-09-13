@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "regedit": "^5.0.0",
+    "systeminformation": "^5.8.7",
+    "unzipper": "^0.10.11"
+  }
+}
